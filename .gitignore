@@ -1,0 +1,4 @@
+# ignore data
+data/
+#ignore db
+stock_data.db

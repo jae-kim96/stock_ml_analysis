@@ -1,0 +1,11 @@
+name: ml_stock
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - keras
+  - tensorflow
+  - scipy
+  - seaborn
+  - pip
